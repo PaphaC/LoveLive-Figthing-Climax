@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1427800814 source:d:\dev\lovelive\evenements.cpp
+	"structures.h"
+
+1427827551 d:\dev\lovelive\structures.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_rotozoom.h>
+
+1427837709 source:d:\dev\lovelive\main.cpp
+	"structures.h"
+
+1427836371 source:d:\dev\lovelive\fonctions.cpp
+	"structures.h"
+
+1427800814 source:d:\dev\sdl\lovelive\evenements.cpp
+	"structures.h"
+
+1427827551 d:\dev\sdl\lovelive\structures.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_rotozoom.h>
+
+1427836371 source:d:\dev\sdl\lovelive\fonctions.cpp
+	"structures.h"
+
+1427838400 source:d:\dev\sdl\lovelive\main.cpp
+	"structures.h"
+
