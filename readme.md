@@ -6,7 +6,7 @@ A fighting game I started some years ago. I also forgot about the artist's name,
 
 At this date (04/2016), there's only a bugged character selector, haha! I plan on finishing the fighting game someday, but it's not planned right now. I also need to refactor the code, since it's a real pain to the eye to watch! Feel free to contribute! 
 
-![Géré par Charles](http://s2.n4g.com/news/1118530_3.jpg) Readme by Oxachon
+![GÃ©rÃ© par Charles](http://s2.n4g.com/news/1118530_3.jpg) Readme by PaphaC
 
 
 ----------
@@ -28,5 +28,3 @@ How to play:
 P1: Up/ Down 
 
 P2: 5/8
-> **Note:** 
->Press Space to special attack!
